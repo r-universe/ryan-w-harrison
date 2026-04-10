@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "shinydataviewer"]
+	path = shinydataviewer
+	url = https://github.com/ryan-w-harrison/shinydataviewer
